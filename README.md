@@ -1,13 +1,13 @@
-# 🎮 Jumbled Word Game – Python Mini Project
+# 🎮 Jumbled Word Game – Python Lab Mini Project
 
-A simple two-player **Jumbled Word Game** developed using Python as part of our 3rd Semester mini project. Players take turns guessing the correct word from a randomly shuffled arrangement of letters. Each correct answer earns **1 point**, and the player with the highest score wins!
+We have created a simple two-player **Jumbled Word Game** developed using only Python as part of our 3rd Semester mini project. Players take turns guessing the correct word from a randomly shuffled arrangement of letters. Each correct answer earns **1 point**, and the wrong answer cost no points and the player with the highest score wins!
 
 ### ✨ Features
 - Two-player gameplay with custom player names.
 - Randomly generated jumbled words.
 - +1 point for every correct guess.
 - Live scoreboard after each turn.
-- Maximum of 5 rounds.
+- Maximum of 5 rounds(each).
 - Option to quit the game at any time.
 - Automatic winner or tie announcement.
 
@@ -26,4 +26,4 @@ A simple two-player **Jumbled Word Game** developed using Python as part of our 
 5. Lucky Raj – 2507179
 6. Atul Kumar Sinha – 2507180
 
-*Python Mini Project | 3rd Semester*
+*Python Lab Mini Project | 3rd Semester*
